@@ -1,0 +1,6 @@
+{
+  "name": "pick",
+  "tree": {
+    "$path": "lib"
+  }
+}

@@ -1,0 +1,9 @@
+[package]
+name = "cosinewaves/pick"
+description = "typed element picker from an array"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+include = ["lib", "default.project.json"]
+
+[dependencies]
